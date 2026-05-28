@@ -26,7 +26,7 @@ Contributions are always welcome! If you have a powerful, battle-tested one-line
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **GNU GPL v3.0 License**.
 
 ---
 
