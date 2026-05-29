@@ -26,6 +26,7 @@ Contributions are always welcome! If you have a powerful, battle-tested one-line
 
 ## Activity
 - This project is under active development. 
+- Also OneLineHub project is not going to be terminated in time. Almost all of the projects maintained by **hypernova-developer** will have place here in the hub.
 
 ---
 
