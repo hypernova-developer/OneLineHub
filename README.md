@@ -30,9 +30,9 @@ Contributions are always welcome! If you have a powerful, battle-tested one-line
 
 ---
 
-## License
+## Ownership and Licensing
 
-This project is licensed under the **GNU GPL v3.0 License**.
+This project is licensed under the **GNU GPL v3.0 License** and maintained by **hypernova-developer**.
 
 ---
 
