@@ -18,7 +18,6 @@ RESET='\033[0m'
 
 echo -e "${CYAN}=== RedShelf Pure One-Liner Build Pipeline ===${RESET}"
 
-# Custom Header local klasörde aransın (-I.) ve sistem kütüphaneleri enjekte edilsin
 g++ ./redshelf.cpp -o redshelf -Ofast -static -I. \
     -include iostream \
     -include fstream \
